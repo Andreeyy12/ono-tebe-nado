@@ -7,7 +7,7 @@
     margin: 92px 50px;
 }
 
-.header__links-list{ 
+.header__links-list {
     display: flex;
     list-style-type: none;
 }
@@ -70,7 +70,7 @@
 .cover {
     height: 757px;
     display: flex;
-    background-image: url(/images/cover.jpg); 
+    background-image: url(/images/cover.jpg);
     background-repeat: no-repeat;
 }
 
@@ -290,7 +290,7 @@
     margin-top: 6px;
 }
 
-.about__column_right{ 
+.about__column_right {
     width: 885px;
     height: 388px;
     margin-top: 106px;
@@ -339,7 +339,7 @@
     max-width: 1340px;
     justify-content: space-between;
     align-items: flex-start;
-    margin: 188px 50px; 
+    margin: 188px 50px;
 }
 
 .footer__menu-list-item {
