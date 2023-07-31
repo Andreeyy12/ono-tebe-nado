@@ -307,10 +307,6 @@
     list-style-type: none;
 }
 
-.footer__menu-link_active {
-    text-decoration: none;
-}
-
 .footer__social-list {
     display: flex;
     flex-direction: row;
@@ -328,5 +324,5 @@
 }
 
 .footer__menu-link_active {
-    list-style-type: none;
+    text-decoration: none;
 }
