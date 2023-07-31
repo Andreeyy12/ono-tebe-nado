@@ -107,7 +107,7 @@
 .aligned-text_center {
     line-height: 100%;
     margin-top: 20px;
-    text-align: center; 
+    text-align: center;
 }
 
 .aligned-text_right {
@@ -294,7 +294,7 @@
     max-width: 1340px;
     justify-content: space-between;
     align-items: flex-start;
-    margin: 180px auto; 
+    margin: 180px auto;
 }
 
 .footer__menu-list-item {
@@ -304,6 +304,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    list-style-type: none;
 }
 
 .footer__menu-link_active {
@@ -317,10 +318,6 @@
     gap: 48px;
     width: 240px;
     min-height: 48px;
-}
-
-.footer__menu-list-item {
-    list-style-type: none;
 }
 
 .footer__menu-link {
